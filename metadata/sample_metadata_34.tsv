@@ -1,0 +1,35 @@
+sample_name	run_alias	title	organism	cultivar	tissue	developmental_stage	sampling_method	seed_id	library_strategy	library_layout	instrument_model	read_length	target_output_gb	GSA_sample_accession	GSA_experiment_accession	GSA_run_accession
+MN_Seed1_Day0	RUN01_MN_Seed1_Day0	MN_Seed1_Day0	Glycine max	Williams 82	seed	Day0	MN	Seed1	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed2_Day0	RUN02_MN_Seed2_Day0	MN_Seed2_Day0	Glycine max	Williams 82	seed	Day0	MN	Seed2	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed3_Day0	RUN03_MN_Seed3_Day0	MN_Seed3_Day0	Glycine max	Williams 82	seed	Day0	MN	Seed3	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed4_Day0	RUN04_MN_Seed4_Day0	MN_Seed4_Day0	Glycine max	Williams 82	seed	Day0	MN	Seed4	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed5_Day0	RUN05_MN_Seed5_Day0	MN_Seed5_Day0	Glycine max	Williams 82	seed	Day0	MN	Seed5	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed1_Day1	RUN06_MN_Seed1_Day1	MN_Seed1_Day1	Glycine max	Williams 82	seed	Day1	MN	Seed1	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed2_Day1	RUN07_MN_Seed2_Day1	MN_Seed2_Day1	Glycine max	Williams 82	seed	Day1	MN	Seed2	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed3_Day1	RUN08_MN_Seed3_Day1	MN_Seed3_Day1	Glycine max	Williams 82	seed	Day1	MN	Seed3	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed4_Day1	RUN09_MN_Seed4_Day1	MN_Seed4_Day1	Glycine max	Williams 82	seed	Day1	MN	Seed4	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed5_Day1	RUN10_MN_Seed5_Day1	MN_Seed5_Day1	Glycine max	Williams 82	seed	Day1	MN	Seed5	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed1_Day2	RUN11_MN_Seed1_Day2	MN_Seed1_Day2	Glycine max	Williams 82	seed	Day2	MN	Seed1	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed2_Day2	RUN12_MN_Seed2_Day2	MN_Seed2_Day2	Glycine max	Williams 82	seed	Day2	MN	Seed2	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed3_Day2	RUN13_MN_Seed3_Day2	MN_Seed3_Day2	Glycine max	Williams 82	seed	Day2	MN	Seed3	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed4_Day2	RUN14_MN_Seed4_Day2	MN_Seed4_Day2	Glycine max	Williams 82	seed	Day2	MN	Seed4	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed5_Day2	RUN15_MN_Seed5_Day2	MN_Seed5_Day2	Glycine max	Williams 82	seed	Day2	MN	Seed5	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed1_Day3	RUN16_MN_Seed1_Day3	MN_Seed1_Day3	Glycine max	Williams 82	seed	Day3	MN	Seed1	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed2_Day3	RUN17_MN_Seed2_Day3	MN_Seed2_Day3	Glycine max	Williams 82	seed	Day3	MN	Seed2	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed3_Day3	RUN18_MN_Seed3_Day3	MN_Seed3_Day3	Glycine max	Williams 82	seed	Day3	MN	Seed3	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed4_Day3	RUN19_MN_Seed4_Day3	MN_Seed4_Day3	Glycine max	Williams 82	seed	Day3	MN	Seed4	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+MN_Seed5_Day3	RUN20_MN_Seed5_Day3	MN_Seed5_Day3	Glycine max	Williams 82	seed	Day3	MN	Seed5	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_01_Day0	RUN21_Bulk_01_Day0	Bulk_01_Day0	Glycine max	Williams 82	seed	Day0	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_02_Day1	RUN22_Bulk_02_Day1	Bulk_02_Day1	Glycine max	Williams 82	seed	Day1	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_03_Day1	RUN23_Bulk_03_Day1	Bulk_03_Day1	Glycine max	Williams 82	seed	Day1	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_04_Day1	RUN24_Bulk_04_Day1	Bulk_04_Day1	Glycine max	Williams 82	seed	Day1	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_05_Day1	RUN25_Bulk_05_Day1	Bulk_05_Day1	Glycine max	Williams 82	seed	Day1	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_06_Day1	RUN26_Bulk_06_Day1	Bulk_06_Day1	Glycine max	Williams 82	seed	Day1	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_07_Day2	RUN27_Bulk_07_Day2	Bulk_07_Day2	Glycine max	Williams 82	seed	Day2	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_08_Day2	RUN28_Bulk_08_Day2	Bulk_08_Day2	Glycine max	Williams 82	seed	Day2	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_09_Day2	RUN29_Bulk_09_Day2	Bulk_09_Day2	Glycine max	Williams 82	seed	Day2	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_10_Day2	RUN30_Bulk_10_Day2	Bulk_10_Day2	Glycine max	Williams 82	seed	Day2	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_11_Day2	RUN31_Bulk_11_Day2	Bulk_11_Day2	Glycine max	Williams 82	seed	Day2	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_12_Day3	RUN32_Bulk_12_Day3	Bulk_12_Day3	Glycine max	Williams 82	seed	Day3	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_13_Day3	RUN33_Bulk_13_Day3	Bulk_13_Day3	Glycine max	Williams 82	seed	Day3	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			
+Bulk_14_Day3	RUN34_Bulk_14_Day3	Bulk_14_Day3	Glycine max	Williams 82	seed	Day3	Bulk	not applicable	RNA-Seq	PAIRED	DNBSEQ-T7	150	2			

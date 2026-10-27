@@ -1,0 +1,17 @@
+"x","y","label","group"
+12,31,"Microneedle
+sample","MN processing"
+35,31,"Dissolve needle
+release material","MN processing"
+58,31,"RNA extraction
+library preparation","MN processing"
+12,19,"Bulk seed tissue
+(total n=14)","Bulk processing"
+35,19,"Freeze, grind
+TRIzol RNA","Bulk processing"
+58,19,"RNA extraction
+library preparation","Bulk processing"
+82,25,"QC, alignment
+count matrix","Shared data products"
+82,12,"Seed-by-Day metadata
+longitudinal matrix","Shared data products"

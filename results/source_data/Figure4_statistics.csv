@@ -1,0 +1,3 @@
+"Comparison","Statistic","Value","Definition"
+"Group-mean expression concordance","Pearson r",0.866595097115504,"Correlation of MN and Bulk group means across filtered genes"
+"Within-method sample concordance","ANOVA P",0.872804770399248,"One-way ANOVA of one mean within-method correlation per run"

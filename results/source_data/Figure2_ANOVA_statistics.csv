@@ -1,0 +1,13 @@
+"Variable","PanelLabel","PValue","LabelText","Displayed"
+"CleanReadRetentionPct","Clean retention (%)",0.484403731647852,"ANOVA P = 0.484",TRUE
+"CleanReadsM","Clean reads (M)",0.0251565851846465,"ANOVA P = 0.025",FALSE
+"InputReadsM","Input reads (M)",0.0229816210342508,"ANOVA P = 0.023",FALSE
+"MultiPct","Multi-mapping (%)",0.134900786479842,"ANOVA P = 0.135",TRUE
+"ReadQ20Pct","Read Q20 (%)",0.839136850265981,"ANOVA P = 0.839",TRUE
+"ReadQ30Pct","Read Q30 (%)",0.321831982341562,"ANOVA P = 0.322",TRUE
+"TooShortPct","Unmapped: too short (%)",0.472625215812279,"ANOVA P = 0.473",TRUE
+"Top100Pct","Top-100 gene share (%)",0.976089513544643,"ANOVA P = 0.976",TRUE
+"TotalCountsM","Assigned counts (M)",0.129211506233333,"ANOVA P = 0.129",TRUE
+"UniquePct","Unique mapping (%)",0.359897991548776,"ANOVA P = 0.360",TRUE
+"nGene1M","Genes at 1M counts",0.84678369315021,"ANOVA P = 0.847",TRUE
+"nGeneGe10","Genes with counts >= 10",0.0699720879461015,"ANOVA P = 0.070",TRUE

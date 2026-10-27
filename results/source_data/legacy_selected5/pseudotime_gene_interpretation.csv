@@ -1,0 +1,7 @@
+"Gene_ID","Symbol","Function","Spearman_rho","Direction","Interpretation"
+"GLYMA_02G141000","WRKY22","WRKY-family transcription factor linked to stress signaling",0.614812632771485,"Increases along pseudotime","Transcriptional reprogramming accompanies the inferred transition."
+"GLYMA_03G244800","OAS-TL1","O-acetylserine(thiol)lyase involved in cysteine and sulfur metabolism",0.271802248221594,"Increases along pseudotime","Sulfur and cysteine metabolism change along the inferred progression."
+"GLYMA_06G303200","ICL1","Isocitrate lyase in the glyoxylate cycle; converts lipid reserves into sugars during germination",0.595184349134688,"Increases along pseudotime","Reserve lipid conversion and glyoxylate-cycle activity track the inferred progression."
+"GLYMA_08G005100","SPK-3","SPK-domain protein; regulatory function during seed and seedling development",0.358781522175818,"Increases along pseudotime","A seed/seedling regulatory factor changes continuously along pseudotime."
+"GLYMA_12G100500","ICL","Isocitrate lyase family gene linked to glyoxylate-cycle lipid mobilization",0.342986109249839,"Increases along pseudotime","Reserve lipid conversion and glyoxylate-cycle activity track the inferred progression."
+"GLYMA_18G061100","AS1","AS1-like developmental regulator; affects organ polarity and leaf initiation",0.535539714442731,"Increases along pseudotime","AS1-like developmental regulator; affects organ polarity and leaf initiation"

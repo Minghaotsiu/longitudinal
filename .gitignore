@@ -1,0 +1,48 @@
+# Raw and large sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.bai
+*.cram
+
+# Large intermediate and submission binaries
+*.tiff
+*.tif
+*.pdf
+*.pptx
+*.docx
+*.zip
+*.tar
+*.tar.gz
+
+# Generated outputs
+outputs/
+work/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+
+# Local configuration and secrets
+.env
+config.env
+config.ps1
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*credential*
+*password*
+*secret*
+*token*
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

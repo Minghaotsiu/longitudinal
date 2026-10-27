@@ -1,0 +1,13 @@
+"Comparison","Direction","Genes"
+"Day1_vs_Day0","Up",111
+"Day1_vs_Day0","Down",99
+"Day2_vs_Day0","Up",377
+"Day2_vs_Day0","Down",172
+"Day3_vs_Day0","Up",75
+"Day3_vs_Day0","Down",111
+"Day2_vs_Day1","Up",444
+"Day2_vs_Day1","Down",210
+"Day3_vs_Day1","Up",27
+"Day3_vs_Day1","Down",90
+"Day3_vs_Day2","Up",168
+"Day3_vs_Day2","Down",489

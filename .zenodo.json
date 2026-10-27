@@ -1,0 +1,31 @@
+{
+  "title": "Longitudinal soybean seed-germination transcriptomics using active microneedle sampling",
+  "upload_type": "software",
+  "description": "Analysis code and reusable metadata for longitudinal soybean seed-germination transcriptomics acquired by active microneedle sampling.",
+  "creators": [
+    {
+      "name": "Wei, Shutong",
+      "affiliation": "College of Chemistry and Chemical Engineering, Xiamen University"
+    },
+    {
+      "name": "Chen, Hanxi",
+      "affiliation": "College of Chemistry and Chemical Engineering, Xiamen University"
+    },
+    {
+      "name": "Qiu, Minghao",
+      "affiliation": "College of Chemistry and Chemical Engineering, Xiamen University",
+      "orcid": "0009-0004-4548-1204"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-28",
+  "keywords": [
+    "Glycine max",
+    "seed germination",
+    "transcriptomics",
+    "microneedle",
+    "longitudinal sampling"
+  ]
+}
+

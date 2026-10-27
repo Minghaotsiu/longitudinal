@@ -1,0 +1,5 @@
+"Gene_ID","Symbol","Category","ANOVA_F","ANOVA_p","n_per_group"
+"GLYMA_06G303200","ICL1","Glyoxylate cycle / lipid mobilization",18.799753121578,1.702563563606e-05,5
+"GLYMA_06G114000","NAC2","NAC developmental transcription factor",23.731764986272,3.92529575831272e-06,5
+"GLYMA_18G061100","AS1","AS1-like developmental regulator",44.0785270018419,5.84760401663853e-08,5
+"GLYMA_13G342900","TOP6B","TOP6B organ growth",15.4249063333408,5.56746029942172e-05,5

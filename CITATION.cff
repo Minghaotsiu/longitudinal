@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the associated data descriptor."
+title: "Longitudinal soybean seed-germination transcriptomics using active microneedle sampling"
+type: software
+authors:
+  - family-names: Wei
+    given-names: Shutong
+    affiliation: "College of Chemistry and Chemical Engineering, Xiamen University, Xiamen 361005, China"
+  - family-names: Chen
+    given-names: Hanxi
+    affiliation: "College of Chemistry and Chemical Engineering, Xiamen University, Xiamen 361005, China"
+  - family-names: Qiu
+    given-names: Minghao
+    orcid: "https://orcid.org/0009-0004-4548-1204"
+    affiliation: "College of Chemistry and Chemical Engineering, Xiamen University, Xiamen 361005, China"
+version: 1.0.0
+date-released: 2026-10-28
+license: MIT
+keywords:
+  - Glycine max
+  - seed germination
+  - transcriptomics
+  - microneedle
+  - longitudinal sampling
+
